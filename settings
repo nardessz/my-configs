@@ -135,7 +135,7 @@
   "workbench.editor.empty.hint": "hidden",
   "update.showReleaseNotes": false,
   "security.promptForLocalFileProtocolHandling": false,
-  "workbench.activityBar.location": "hidden",
+  "workbench.activityBar.location": "default",
   "apc.activityBar": {
     "position": "bottom",
     "hideSettings": true,
@@ -254,7 +254,7 @@
     "webm",
     "WEBPUSH"
   ],
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
@@ -267,8 +267,8 @@
   },
   "workbench.layoutControl.enabled": false,
   "window.autoDetectColorScheme": true,
-  "workbench.preferredDarkColorTheme": "poimandres",
-  "workbench.preferredLightColorTheme": "Min Light",
+  "workbench.preferredDarkColorTheme": "Miraculous Theme",
+  "workbench.preferredLightColorTheme": "Miraculous Theme",
   "gitlens.advanced.messages": {
     "suppressIntegrationRequestTimedOutWarning": true
   },
